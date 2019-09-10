@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Submit Observation">229139f1dbb973009a45d0a1ca96195e</button>
+        <item_parameter display_value="Add_Observation_Summary_IP">9dce2971dbb973009a45d0a1ca96194c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2019-06-03 09:35:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fb84b975dbb973009a45d0a1ca961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9dce2971dbb973009a45d0a1ca96194c</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fb84b975dbb973009a45d0a1ca961931</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 09:35:58</sys_updated_on>
+        <ui_parameter display_value="Summary">9b223135dbb973009a45d0a1ca9619b6</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</application>
+        <comments/>
+        <file_path/>
+        <instance_id>dae8e2b16fdbf940c2b67b2f5d3ee4b1</instance_id>
+        <instance_name>cweuat</instance_name>
+        <name>sys_sg_action_param_map_fb84b975dbb973009a45d0a1ca961931</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Submit Observation">229139f1dbb973009a45d0a1ca96195e</button><item_parameter display_value="Add_Observation_Summary_IP">9dce2971dbb973009a45d0a1ca96194c</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>robin.burrows@baesystems.com</sys_created_by><sys_created_on>2019-06-03 09:35:58</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fb84b975dbb973009a45d0a1ca961931</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9dce2971dbb973009a45d0a1ca96194c</sys_name><sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope><sys_update_name>sys_sg_action_param_map_fb84b975dbb973009a45d0a1ca961931</sys_update_name><sys_updated_by>robin.burrows@baesystems.com</sys_updated_by><sys_updated_on>2019-06-03 09:35:58</sys_updated_on><ui_parameter display_value="Summary">9b223135dbb973009a45d0a1ca9619b6</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>1021682787</payload_hash>
+        <record_name>9dce2971dbb973009a45d0a1ca96194c</record_name>
+        <reverted_from/>
+        <source>c7086d79db7973009a45d0a1ca961920</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2019-06-03 09:35:58</sys_created_on>
+        <sys_id>8a94b975dbb973009a45d0a1ca961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16b1cb208cf0000001</sys_recorded_at>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 09:35:58</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>8294b97568b97300da642703f6067737</update_guid>
+        <update_guid_history>8294b97568b97300da642703f6067737:1021682787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2019-06-03 12:02:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>966cd7b66ecc4182b2a08bb4793515e4</sys_id>
+        <sys_metadata>fb84b975dbb973009a45d0a1ca961931</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9dce2971dbb973009a45d0a1ca96194c</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_scope_delete display_value="">8ba4b9ad3400482b9438b02c81500c69</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_fb84b975dbb973009a45d0a1ca961931</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_fb84b975dbb973009a45d0a1ca961931">8a94b975dbb973009a45d0a1ca961937</sys_update_version>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 12:02:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

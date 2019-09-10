@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="My Improvements">d8c86979db7973009a45d0a1ca9619e9</data_item>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="file-alt">b62cedbddb7973009a45d0a1ca96195b</icon>
+        <name>Activity Stream</name>
+        <order>20</order>
+        <parent>ca4a6d3ddb7973009a45d0a1ca9619ab</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8e4a6d3ddb7973009a45d0a1ca9619cf</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_8e4a6d3ddb7973009a45d0a1ca9619cf</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 14:36:09</sys_updated_on>
+        <table/>
+    </sys_sg_activity_stream_screen>
+</record_update>

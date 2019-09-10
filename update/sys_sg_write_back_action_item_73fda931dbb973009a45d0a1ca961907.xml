@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+	 var gr = new GlideRecord("x_baes2_busimprove_ideas");
+	gr.initialize();
+	gr.campaign = '093071bb1b9763c0f441eb186e4bcbdc';
+	gr.short_description = input.Add_Observation_Title_IP;	
+	gr.description = input.Add_Observation_Summary_IP;	
+	gr.solution = input.Add_Observation_Solution_IP;
+	gr.already_tried =  input.Add_Observation_Already_Tried_IP;
+	gr.business_case =  input.Add_Observation_Benefit_IP;	
+	gr.submitted_for =  input.Add_Observation_Submitted_For_IP;	
+	gr.confidential =  input.Add_Observation_Confidential_IP;			
+	gr.insert();
+})(input);]]></execution_script>
+        <name>Submit Observation</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2019-06-03 09:08:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>73fda931dbb973009a45d0a1ca961907</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Submit Observation</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_73fda931dbb973009a45d0a1ca961907</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 14:09:47</sys_updated_on>
+        <table>x_baes2_busimprove_ideas</table>
+        <template>active=true^campaign=093071bb1b9763c0f441eb186e4bcbdc^confidential=false^short_description=Mobile App^submitted_for=Mobile User^EQ</template>
+        <type>script</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

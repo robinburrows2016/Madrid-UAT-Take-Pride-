@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4ccfe702db3db3009a45d0a1ca96198a</sp_column>
+        <sp_widget display_value="SC Catalog Item Tabbed- BAE V3">43104ebedbc8b340561fb29a689619b5</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2019-06-04 13:12:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>48cfe702db3db3009a45d0a1ca96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sp_instance_48cfe702db3db3009a45d0a1ca96198c</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-04 13:12:31</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"show_submit_order_button": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_add_cart_button": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"url": {
+		"value": "",
+		"displayValue": ""
+	},
+	"page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"table": {
+		"value": "",
+		"displayValue": ""
+	},
+	"auto_redirect": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_field_validation_messages": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_add_to_wishlist_button": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_cart_on_right": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_less_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"hide_delivery_time": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=48cfe702db3db3009a45d0a1ca96198c"/>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="My Observations">a20929b9db7973009a45d0a1ca961989</data_item>
+        <description>My Observations</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="list-alt">130b2d7ddb7973009a45d0a1ca961935</icon>
+        <item_view display_value="My Observations detail item view">af0ba97ddb7973009a45d0a1ca96191a</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>9c1b2d7ddb7973009a45d0a1ca9619d1</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ad1bad7ddb7973009a45d0a1ca961945</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_details_screen_ad1bad7ddb7973009a45d0a1ca961945</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 14:35:43</sys_updated_on>
+        <table/>
+    </sys_sg_details_screen>
+</record_update>

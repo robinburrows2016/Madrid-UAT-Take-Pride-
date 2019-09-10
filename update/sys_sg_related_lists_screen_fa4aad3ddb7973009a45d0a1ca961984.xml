@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="file-alt">762c6dbddb7973009a45d0a1ca9619b5</icon>
+        <name>Related List</name>
+        <order>30</order>
+        <parent>ca4a6d3ddb7973009a45d0a1ca9619ab</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fa4aad3ddb7973009a45d0a1ca961984</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_fa4aad3ddb7973009a45d0a1ca961984</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 14:36:09</sys_updated_on>
+        <table>x_baes2_busimprove_ideas</table>
+    </sys_sg_related_lists_screen>
+</record_update>

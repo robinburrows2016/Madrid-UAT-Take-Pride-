@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>My Improvements</description>
+        <group_by/>
+        <name>My Improvements</name>
+        <query_condition table="x_baes2_busimprove_ideas">campaign.classification=1^submitterDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="1" endquery="false" field="campaign.classification" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="false" field="submitter" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2019-06-03 08:44:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d8c86979db7973009a45d0a1ca9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Improvements</sys_name>
+        <sys_package display_value="Take Pride+ Mobile" source="x_baes2_take_pride">cb08a979db7973009a45d0a1ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Take Pride+ Mobile">cb08a979db7973009a45d0a1ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_data_item_d8c86979db7973009a45d0a1ca9619e9</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2019-06-03 08:44:14</sys_updated_on>
+        <table>x_baes2_busimprove_ideas</table>
+    </sys_sg_data_item>
+</record_update>
